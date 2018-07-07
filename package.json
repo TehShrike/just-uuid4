@@ -1,0 +1,23 @@
+{
+  "name": "just-uuid4",
+  "version": "1.0.0",
+  "description": "Just UUID v4",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TehShrike/just-uuid4.git"
+  },
+  "keywords": [
+    "uuid",
+    "uuidv4"
+  ],
+  "author": "TehShrike",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/TehShrike/just-uuid4/issues"
+  },
+  "homepage": "https://github.com/TehShrike/just-uuid4#readme"
+}
