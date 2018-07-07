@@ -8,6 +8,8 @@ npm i just-uuid4
 
 ```js
 const makeUuid = require('just-uuid4')
+
+const uuid = makeUuid()
 ```
 
 Simple.
