@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/TehShrike/just-uuid4/issues"
   },
-  "homepage": "https://github.com/TehShrike/just-uuid4#readme"
+  "homepage": "https://github.com/TehShrike/just-uuid4#readme",
+  "devDependencies": {
+    "zora": "2.0.1"
+  }
 }
